@@ -54,11 +54,11 @@
 **DataAuto** can be installed via `pip`. Ensure you have Python 3.8 or higher installed.
 
 ```bash
-pip install dataauto==1.0.0
+pip install dataauto==1.0.2
 ```
 Alternatively, you can install directly from the GitHub repository:
 ```bash
-pip install git+https://github.com/yourusername/dataauto.git@v1.0.0
+pip install git+https://github.com/yourusername/dataauto.git@v1.0.2
 ```
 
 ## Quick Start
