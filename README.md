@@ -1,8 +1,8 @@
-# DataAuto
+# DataAuto v1.0.0
 
 **DataAuto** is an open-source tool designed to automate common data analysis tasks. Whether you're a beginner or a seasoned data scientist, DataAuto simplifies the process of loading, summarizing, visualizing your data, training machine learning models, generating reports, and much more.
 
-![DataAuto Banner](https://github.com/yourusername/dataauto/blob/main/docs/banner.png)
+![DataAuto Banner](https://github.com/r4mp4g3r/dataauto/blob/main/docs/banner.jpg)
 
 ## Features
 
@@ -45,16 +45,20 @@
 - **Comprehensive Docs:** Access detailed documentation, tutorials, and API references.
 - **Community Support:** Engage with other users and contributors through GitHub Discussions and dedicated Slack/Discord channels.
 
+### 10. Advanced Data Filtering *(New Feature)*
+- **Dynamic Filters:** Apply complex filters to your datasets using multiple conditions and logical operators.
+- **User-Friendly Interface:** Intuitive commands for specifying filter criteria without deep technical knowledge.
+
 ## Installation
 
 **DataAuto** can be installed via `pip`. Ensure you have Python 3.8 or higher installed.
 
 ```bash
-pip install dataauto
+pip install dataauto==1.0.0
 ```
 Alternatively, you can install directly from the GitHub repository:
 ```bash
-pip install git+https://github.com/yourusername/dataauto.git
+pip install git+https://github.com/yourusername/dataauto.git@v1.0.0
 ```
 
 ## Quick Start
@@ -123,7 +127,7 @@ Detailed usage examples can be found in the Examples directory. (In Progress)
 
 ## Roadmap
 
-Check out our ROADMAP.md for upcoming features and improvements.
+Check out our [ROADMAP.md](https://github.com/r4mp4g3r/dataauto/blob/main/ROADMAP.md) for upcoming features and improvements.
 
 ## Contributing
 
@@ -151,3 +155,4 @@ This project is licensed under the MIT License.
 	•	FPDF
 	•	Sphinx
 	•	MkDocs
+	•   Joblib
