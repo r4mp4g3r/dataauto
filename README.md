@@ -1,4 +1,4 @@
-# DataAuto v1.0.0
+# DataAuto v1.0.1
 
 **DataAuto** is an open-source tool designed to automate common data analysis tasks. Whether you're a beginner or a seasoned data scientist, DataAuto simplifies the process of loading, summarizing, visualizing your data, training machine learning models, generating reports, and much more.
 
