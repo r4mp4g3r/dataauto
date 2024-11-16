@@ -1,8 +1,6 @@
-# DataAuto v1.0.2
+# DataAuto v1.0.3
 
 **DataAuto** is an open-source tool designed to automate common data analysis tasks. Whether you're a beginner or a seasoned data scientist, DataAuto simplifies the process of loading, summarizing, visualizing your data, training machine learning models, generating reports, and much more.
-
-![DataAuto Banner](https://github.com/r4mp4g3r/dataauto/blob/main/docs/banner.jpg)
 
 ## Features
 
@@ -54,11 +52,11 @@
 **DataAuto** can be installed via `pip`. Ensure you have Python 3.8 or higher installed.
 
 ```bash
-pip install dataauto==1.0.2
+pip install dataauto==1.0.3
 ```
 Alternatively, you can install directly from the GitHub repository:
 ```bash
-pip install git+https://github.com/yourusername/dataauto.git@v1.0.2
+pip install git+https://github.com/r4mp4g3r/dataauto.git@v1.0.3
 ```
 
 ## Quick Start

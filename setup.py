@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='dataauto',
-    version='1.0.2',
+    version='1.0.3',
     author='Pachigulla Ramtej',
     author_email='ram.pachi.tej@example.com',
     description='An open-source tool for automating data analysis tasks.',
