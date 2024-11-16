@@ -1,4 +1,5 @@
 # dataauto/utils.py
+
 import os
 
 def validate_file_path(file_path):
@@ -12,3 +13,13 @@ def validate_file_path(file_path):
         bool: True if valid, else False.
     """
     return os.path.isfile(file_path)
+
+def create_output_dir(output_dir):
+    """
+    Create the output directory if it doesn't exist.
+
+    Parameters:
+        output_dir (str): Directory path to create.
+    """
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
